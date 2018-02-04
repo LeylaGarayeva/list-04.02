@@ -1,0 +1,10 @@
+C:\Users\P502\Desktop\task\list\list\bin\Debug\list.exe.config
+C:\Users\P502\Desktop\task\list\list\bin\Debug\list.exe
+C:\Users\P502\Desktop\task\list\list\bin\Debug\list.pdb
+C:\Users\P502\Desktop\task\list\list\obj\Debug\list.csprojResolveAssemblyReference.cache
+C:\Users\P502\Desktop\task\list\list\obj\Debug\list.Form1.resources
+C:\Users\P502\Desktop\task\list\list\obj\Debug\list.Properties.Resources.resources
+C:\Users\P502\Desktop\task\list\list\obj\Debug\list.csproj.GenerateResource.Cache
+C:\Users\P502\Desktop\task\list\list\obj\Debug\list.csproj.CoreCompileInputs.cache
+C:\Users\P502\Desktop\task\list\list\obj\Debug\list.exe
+C:\Users\P502\Desktop\task\list\list\obj\Debug\list.pdb
